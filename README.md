@@ -1,5 +1,7 @@
 # ShellcodeEncryption
 Used to AES encrypt shellcode, can take password or use built in default should be used with Iron Injector to generate and execute shellcode.
+![image](https://user-images.githubusercontent.com/15575425/158678754-c89f1f4c-7993-4c51-992d-fc3676757940.png)
+
 
 ## Credit
 Heavily based on the content from INE/Elearn security PTX course. 
