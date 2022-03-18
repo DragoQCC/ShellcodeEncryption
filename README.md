@@ -12,5 +12,7 @@ Heavily based on the content from INE/Elearn security PTX course.
 
 should be used with Iron Injector to encrypt shellcode that can be downloaded and decrypted by it, it uses the same password as IronInjector by default or a user may set a custom password.
 
+intended to be used with https://github.com/Queen-City-Cyber/Iron-Injector but can be used standalone.
+
 ## Disclaimer
 I am not responsible for actions taken by users of Shellcode Encryption.  Shellcode Encryption was released solely for educational and ethical purposes.
